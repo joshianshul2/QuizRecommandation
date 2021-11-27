@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <style>
+
+.rotate {
+
+  transform: rotate(-90deg);
+
+
+  /* Legacy vendor prefixes that you probably don't need... */
+
+  /* Safari */
+  -webkit-transform: rotate(-90deg);
+
+  /* Firefox */
+  -moz-transform: rotate(-90deg);
+
+  /* IE */
+  -ms-transform: rotate(-90deg);
+
+  /* Opera */
+  -o-transform: rotate(-90deg);
+
+  /* Internet Explorer */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+}
+    </style>
+    <script>
+        const arr=[];
+function anji(a){
+alert(arr);
+arr.push(a);
+console.log(arr);
+}
+    </script>
+</head>
+
+
+<body style="background-color:white;">
+
+<div style="color:blue;">
+    <h1 align="center" >Performance Matrix </h1>
+</div>
+
+
+{% load static %}
+{% with res as list %}
+<table class="table table-dark" width="100px">
+  <thead>
+    <tr>
+
+      <th scope="col">Sid</th>
+      <th scope="col">Marks</th>
+      <th scope="col">Click Here</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        {% for i in list %}
+
+
+      <td>{{ i.Sid }}<br></td>
+      <td>{{ i.result }}</td>
+        <td><button type="button" class="btn btn-primary" onclick="myfunctionName({{ i.result }})">Click</button></td>
+   </tr>
+        {% endfor %}
+
+  </tbody>
+</table>
+
+
+
+
+
+
+{% endwith %}
+
+<br>
+<br>
+
+<!--{% for res in res %}-->
+
+<!--{{res.result}}-->
+
+
+
+<!--<p onchange="anji({{res.result}})">Click23</p>-->
+
+
+
+<!--<button onclick="myfunctionName({{res.result}})">Click</button>-->
+
+<!--{% endfor %}-->
+
+
+
+<p id="demo"></p>
+
+<!--<button onclick="myfunctionName({{q.result}})">Click</button>-->
+
+
+
+
+
+<table align="center">
+    <tr>
+        <td>
+            <p class="rotate" style="margin-left:-20px;"> No of Marks --></p>
+        </td>
+        <td>
+            <canvas id="myChart" style="width:100%;max-width:600px;margin-left:20px;"></canvas>
+            <p class="" style="margin-left:300px;"> No of Tests --></p>
+        </td>
+    </tr>
+</table>
+<div>
+
+
+</div>
+
+
+
+
+
+
+
+<script>
+
+function myfunctionName(a)
+{
+arr.push(a);
+var xValues = [1,2,3,4,5,6,7,8,9,10];
+var yValues = arr;
+
+
+
+
+new Chart("myChart", {
+  type: "line",
+  data: {
+    labels: xValues,
+    datasets: [{
+      fill: false,
+      lineTension: 0,
+      backgroundColor: "rgba(0,0,255,1.0)",
+      borderColor: "rgba(0,0,255,0.1)",
+      data: yValues
+    }]
+  },
+  options: {
+    legend: {display: false},
+    scales: {
+      yAxes: [{ticks: {min: 0, max:100}}],
+    }
+  }
+});
+
+}
+
+</script>
+
+
+</body>
+</html>
+
+
+

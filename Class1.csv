@@ -1,0 +1,509 @@
+Student ID,AssignmentOneAverage,AssignmentOneAttempt,AssignmentTwoAverage,AssignmentTwoAttempt,AssignmentThreeAverage,AssignmentThreeAttempt,Gender,Course,Rating
+18421,0,0,10,6,60,8,0,Embedded and Real Time Operating Systems(Youtube),7
+14566,0,0,0,0,40,6,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),7
+3829,0,3,70,1,50,8,0,Introduction to Operating Systems(Udacity),8
+728,0,0,0,0,40,7,1,Embedded Hardware and Operating Systems(Coursera),8
+5063,0,0,0,0,0,3,0,Operating Systems(SWAYAM),7
+5975,0,0,0,3,30,1,0,Introduction to Operating Systems(Udacity),7
+16099,40,5,30,9,40,2,0,Advanced Operating Systems(Udacity),8
+8318,0,0,0,0,40,9,1,Getting Started with Junos Operating System(Coursera),6
+9901,0,5,70,7,40,1,0,Become a Master of Operating Systems at comfort of your Home (Udemy),7
+15882,0,0,40,2,0,0,1,Operating System(Youtube -GateSmasher),4
+19866,50,5,30,7,60,1,1,Introduction to Operating Systems(Udacity),7
+17266,0,0,0,0,40,1,1,Operating Systems Concept and Design Principles for Beginner(Udemy),7
+2832,0,8,80,6,40,8,1,Operating System(Youtube -GateSmasher),7
+9099,0,3,80,1,60,3,0,Cybersecurity Roles and Operating System Security(EDX),6
+16922,0,5,0,0,40,9,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),8
+6857,40,8,0,7,60,5,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),1
+6527,0,5,80,1,50,1,0,Introduction to Operating Systems(Swayam),7
+3961,10,5,70,1,50,8,0,Operating Systems(SWAYAM),7
+15147,0,3,0,0,40,5,0,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),6
+4732,0,3,60,3,70,1,1,Computer Hardware and Operating Systems(EDX),7
+1069,0,3,90,1,50,5,0,Operating System(Udemy),7
+784,0,0,0,0,40,1,1,Introduction to Operating Systems(Udacity),5
+10670,80,3,0,6,50,7,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),8
+16192,0,3,0,0,0,0,1,Operating Systems from scratch - Part 2(Udemy),7
+10896,0,0,0,0,40,9,1,Linux Operating System Fundamentals(Udemy),5
+9557,80,5,70,1,0,6,0,Real Time Operating System(SWAYAM),5
+12032,60,3,60,1,30,8,1,Operating Azure Stack Hub(PLuralSight),7
+1841,50,5,0,3,50,7,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),8
+15720,0,0,20,8,70,4,1,Introduction to Operating Systems(Swayam),7
+292,70,3,70,5,0,9,1,Introduction to Operating Systems(Swayam),7
+19648,60,8,0,8,60,1,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),7
+3574,30,8,60,3,40,7,1,Operating Systems from scratch - Part 1(Udemy),6
+10393,0,3,70,1,50,3,0,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+21005,80,3,60,2,0,4,0,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),7
+1228,0,0,0,0,40,1,1,Operating Systems from scratch - Part 2(Udemy),7
+20754,0,0,80,2,0,4,1,Operating System(Youtube -GateSmasher),7
+3105,0,0,0,0,40,8,0,Introduction to Operating Systems(Swayam),6
+11462,0,0,30,5,40,4,1,Operating Systems from scratch - Part 1(Udemy),7
+814,50,5,20,7,50,9,1,Introduction to Operating Systems(Swayam),7
+12882,0,0,50,7,0,8,1,Embedded and Real Time Operating Systems(Youtube),8
+8804,0,0,0,0,40,9,1,Operating Systems(SWAYAM),6
+7996,0,0,0,8,70,4,1,Linux Operating System Fundamentals(Udemy),8
+423,50,3,70,2,0,9,0,Operating Systems(SWAYAM),6
+11167,0,8,80,3,40,2,0,Introduction to Operating Systems(Swayam),5
+12465,0,0,20,7,70,5,0,Getting Started with Junos Operating System(Coursera),7
+6998,0,0,0,0,40,7,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),6
+16547,0,0,80,3,0,6,0,Operating Systems(SWAYAM),8
+18916,70,5,80,2,0,7,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),5
+14387,0,8,80,6,50,7,0,Embedded Hardware and Operating Systems(Coursera),7
+6771,50,3,0,2,50,2,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),7
+20668,0,0,0,0,0,1,1,Hello (Real) World with ROS – Robot Operating System(EDX),6
+10237,0,5,0,0,50,9,0,Operating Systems and You: Becoming a Power User(Coursera),6
+18215,50,5,70,9,0,9,0,Embedded Hardware and Operating Systems(Coursera),7
+15523,0,3,30,3,70,1,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),6
+12524,0,8,70,5,0,0,1,Operating System(Udemy),6
+6422,0,8,70,6,40,7,1,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+19366,0,0,80,1,30,7,1,Understanding Computer Systems(FutureLearn),7
+2971,10,5,70,5,40,6,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+2926,0,8,0,0,60,2,1,Operating Azure Stack Hub(PLuralSight),7
+4553,0,8,0,0,50,5,0,Operating Systems and You: Becoming a Power User(Coursera),6
+7493,0,0,0,0,40,3,0,Operating Systems Concept and Design Principles for Beginner(Udemy),8
+2343,0,0,0,4,0,0,0,Understanding Computer Systems(FutureLearn),6
+17140,0,0,0,0,40,1,1,Introduction to Operating Systems(Udacity),7
+877,70,8,0,7,50,2,0,Operating Systems from scratch - Part 1(Udemy),8
+9761,40,8,0,0,40,7,0,Operating Systems(SWAYAM),5
+7112,0,3,0,0,50,9,1,Operating Systems from scratch - Part 1(Udemy),7
+1499,30,8,0,0,50,7,0,Hello (Real) World with ROS – Robot Operating System(EDX),8
+8191,0,3,0,0,50,7,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+17191,80,5,0,7,60,1,0,Understanding Computer Systems(FutureLearn),6
+6456,40,8,70,3,30,8,1,Using Python to Interact with the Operating System(Coursera),7
+17388,0,0,0,4,80,2,1,Operating Systems(SWAYAM),7
+3904,0,8,70,3,0,1,1,Using Python to Interact with the Operating System(Coursera),6
+14956,0,0,0,7,60,4,1,Linux Operating System Fundamentals(Udemy),7
+2639,0,5,60,1,70,1,0,Operating Systems and You: Becoming a Power User(Coursera),6
+12934,0,0,0,0,40,1,1,Operating Systems and You: Becoming a Power User(Coursera),8
+13717,70,3,0,3,30,4,0,Operating Systems and You: Becoming a Power User(Coursera),8
+16221,90,3,0,7,0,0,0,Operating Systems from scratch - Part 2(Udemy),7
+19678,70,5,0,5,40,6,1,Real Time Operating System(SWAYAM),6
+11720,0,0,0,0,40,9,1,Advanced Operating Systems(Udacity),6
+15732,40,8,0,0,40,8,1,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),6
+12229,0,0,0,0,40,4,0,Hello (Real) World with ROS – Robot Operating System(EDX),4
+11563,0,8,70,4,40,9,0,Linux Operating System Fundamentals(Udemy),7
+10842,80,8,0,0,0,8,1,Operating System(Udemy),3
+9415,80,5,0,7,20,1,0,Operating System(Youtube -GateSmasher),8
+7760,10,8,0,0,70,5,1,Operating Systems(SWAYAM),7
+18146,0,0,60,8,0,9,1,Linux Operating System Fundamentals(Udemy),6
+14159,0,0,0,9,40,2,0,Operating Systems from scratch - Part 1(Udemy),6
+2744,80,3,70,1,0,5,1,Using Python to Interact with the Operating System(Coursera),0
+16025,0,5,80,2,60,6,0,Operating Systems(SWAYAM),5
+103,0,0,0,9,70,5,0,Real Time Operating System(SWAYAM),4
+9218,60,8,0,0,0,5,1,Operating System(Udemy),6
+12999,0,0,20,5,90,1,0,Operating Systems from scratch - Part 1(Udemy),8
+16918,0,5,0,0,60,3,1,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+10159,0,0,60,6,20,8,0,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),6
+20197,30,8,10,1,0,0,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),7
+14800,0,0,30,8,60,4,1,Operating Systems from scratch - Part 2(Udemy),6
+17433,60,3,70,2,0,9,0,Advanced Operating Systems(Udacity),6
+2489,0,5,70,1,60,6,0,Getting Started with Junos Operating System(Coursera),7
+11168,80,3,0,6,50,6,1,Embedded Hardware and Operating Systems(Coursera),5
+17204,0,0,0,0,30,7,1,Operating Systems from scratch - Part 1(Udemy),6
+18173,0,8,60,2,50,1,0,Operating System(Youtube -GateSmasher),7
+20139,10,8,70,2,50,5,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+18756,30,8,50,6,30,2,1,Cybersecurity Roles and Operating System Security(EDX),8
+14144,0,5,80,3,0,0,1,Linux Operating System Fundamentals(Udemy),8
+13090,0,0,10,5,60,4,1,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+6854,60,5,0,3,0,0,1,Operating Systems from scratch - Part 2(Udemy),7
+18609,30,3,0,9,40,9,0,Hello (Real) World with ROS – Robot Operating System(EDX),7
+6451,70,8,0,8,60,5,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),7
+4840,40,5,70,2,30,6,1,Operating Azure Stack Hub(PLuralSight),7
+16011,0,0,70,3,0,7,0,Embedded Hardware and Operating Systems(Coursera),4
+5421,0,5,70,3,80,1,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),5
+17410,0,8,60,5,70,1,1,Operating Systems from scratch - Part 2(Udemy),7
+6534,70,8,0,0,0,7,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),3
+14662,80,8,0,9,30,8,1,Operating Systems(SWAYAM),6
+492,0,0,20,9,70,5,1,Operating Running Systems(PluraSight),6
+2015,0,3,0,0,50,2,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),7
+10566,0,0,60,2,30,9,1,Operating Systems from scratch - Part 2(Udemy),7
+16321,0,8,90,6,0,0,0,Understanding Computer Systems(FutureLearn),7
+11382,0,0,0,0,40,9,1,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),6
+9855,0,3,60,5,50,2,0,Getting Started with Junos Operating System(Coursera),4
+10080,0,0,70,2,0,9,1,Operating Systems(SWAYAM),6
+3137,0,8,80,6,40,6,0,Computer Hardware and Operating Systems(EDX),7
+2280,0,5,0,0,70,3,1,Using Python to Interact with the Operating System(Coursera),7
+6916,0,0,0,0,40,9,1,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),7
+12369,0,0,0,1,50,1,0,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),9
+11708,0,8,80,3,0,0,1,Linux Operating System Fundamentals(Udemy),4
+11740,0,8,10,9,60,6,1,Getting Started with Junos Operating System(Coursera),8
+12602,50,3,30,3,40,3,1,Real Time Operating System(SWAYAM),7
+17617,0,0,0,1,40,6,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),6
+308,70,3,0,0,30,9,1,Using Python to Interact with the Operating System(Coursera),7
+3301,70,8,60,4,0,9,0,Getting Started with Junos Operating System(Coursera),7
+11270,10,3,0,0,30,8,1,Using Python to Interact with the Operating System(Coursera),6
+2452,60,5,0,6,70,3,1,Real Time Operating System(SWAYAM),6
+12966,0,0,0,2,0,0,1,Embedded Hardware and Operating Systems(Coursera),5
+11763,80,3,0,8,50,2,0,Using Python to Interact with the Operating System(Coursera),7
+1756,0,0,0,0,40,1,1,Real Time Operating System(SWAYAM),7
+10884,0,8,80,5,60,5,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),7
+13061,0,0,30,4,60,2,0,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+19148,0,0,0,0,30,7,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),6
+18982,0,3,80,1,40,7,1,Real Time Operating System(SWAYAM),5
+20652,60,5,0,1,30,9,1,Advanced Operating Systems(Udacity),6
+5279,40,3,0,0,30,8,0,Introduction to Operating Systems(Udacity),6
+5129,70,5,0,5,40,1,0,Operating System(Udemy),7
+14015,0,0,0,7,70,9,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),7
+21163,60,5,90,4,0,9,0,Cybersecurity Roles and Operating System Security(EDX),7
+7546,0,0,0,0,40,1,1,Embedded and Real Time Operating Systems(Youtube),6
+20386,0,5,60,3,0,0,1,Operating Running Systems(PluraSight),2
+19936,40,8,0,0,40,2,1,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),7
+14482,0,0,0,0,40,5,1,Operating Systems Concept and Design Principles for Beginner(Udemy),5
+8026,0,3,80,3,0,0,1,Cybersecurity Roles and Operating System Security(EDX),7
+5290,0,8,80,2,50,1,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+2808,0,0,10,4,80,2,1,Getting Started with Junos Operating System(Coursera),5
+6896,70,3,0,0,30,8,1,Understanding Computer Systems(FutureLearn),6
+11316,0,8,50,3,70,8,1,Embedded and Real Time Operating Systems(Youtube),7
+10845,60,3,70,7,0,7,0,Operating Running Systems(PluraSight),6
+18689,0,8,70,6,50,6,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),5
+7283,80,5,0,0,0,9,0,Advanced Operating Systems(Udacity),6
+3086,80,3,90,1,0,9,1,Become a Master of Operating Systems at comfort of your Home (Udemy),5
+19739,0,0,20,4,50,6,0,Operating System(Youtube -GateSmasher),8
+1628,70,3,80,1,20,9,1,Advanced Operating Systems(Udacity),2
+11576,60,5,0,0,0,9,1,Computer Hardware and Operating Systems(EDX),5
+10627,0,8,80,1,70,1,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+12345,10,8,80,5,40,3,0,Hello (Real) World with ROS – Robot Operating System(EDX),6
+17634,0,8,80,3,40,8,1,Introduction to Operating Systems(Swayam),5
+14409,0,0,0,7,50,5,0,Operating System(Udemy),7
+17642,0,0,0,2,30,3,1,Operating Systems from scratch - Part 2(Udemy),5
+18530,60,8,0,5,50,3,1,Operating Running Systems(PluraSight),7
+11400,30,8,0,0,60,1,1,Embedded Hardware and Operating Systems(Coursera),6
+1863,0,0,0,0,30,3,0,Operating Systems from scratch - Part 1(Udemy),6
+20593,80,5,0,7,70,1,0,Embedded Hardware and Operating Systems(Coursera),6
+20992,0,8,0,0,40,9,1,Operating System(Udemy),7
+10937,0,3,70,2,50,7,0,Advanced Operating Systems(Udacity),5
+16764,50,5,30,1,20,9,1,Introduction to Operating Systems(Swayam),6
+4830,80,3,60,5,0,7,1,Real Time Operating System(SWAYAM),7
+14298,0,0,0,0,30,9,1,Introduction to Operating Systems(Udacity),6
+11062,0,0,20,6,70,4,1,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),7
+19971,0,0,30,4,70,1,0,Operating System(Youtube -GateSmasher),6
+4822,0,5,60,2,30,7,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),7
+5906,0,8,0,0,80,6,1,Operating System(Youtube -GateSmasher),6
+21055,70,3,20,5,0,0,0,Introduction to Operating Systems(Udacity),8
+6993,0,0,0,0,40,8,0,Advanced Operating Systems(Udacity),8
+8390,10,5,80,3,0,0,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),7
+15308,0,0,0,0,40,7,1,Operating System(Udemy),8
+17547,0,8,60,8,70,6,0,Introduction to Operating Systems(Swayam),7
+6888,80,3,0,7,60,3,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),6
+4269,0,8,80,4,40,6,0,Embedded and Real Time Operating Systems(Youtube),7
+16303,0,5,10,4,70,9,0,Computer Hardware and Operating Systems(EDX),6
+2179,0,0,30,2,40,2,0,Advanced Operating Systems(Udacity),6
+1796,0,3,0,0,80,1,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+771,0,8,70,8,60,2,0,Operating Systems(SWAYAM),6
+6368,10,5,70,3,0,0,1,Operating Systems(SWAYAM),6
+4820,70,5,0,7,60,1,1,Embedded and Real Time Operating Systems(Youtube),7
+4875,0,0,60,2,30,9,0,Embedded Hardware and Operating Systems(Coursera),5
+17521,0,8,70,4,50,2,0,Computer Hardware and Operating Systems(EDX),6
+18119,0,0,0,0,40,3,0,Understanding Computer Systems(FutureLearn),4
+5469,70,3,0,6,60,7,0,Operating Systems(SWAYAM),8
+12340,90,3,0,6,50,5,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),6
+14992,0,0,80,1,30,7,1,Operating Running Systems(PluraSight),7
+14491,0,8,0,0,60,6,0,Hello (Real) World with ROS – Robot Operating System(EDX),6
+7868,80,3,0,0,20,8,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),7
+16248,0,8,90,1,70,5,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),7
+10886,0,0,0,0,40,7,1,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+6082,0,3,60,3,0,0,1,Linux Operating System Fundamentals(Udemy),7
+10090,0,0,0,6,30,4,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+17037,0,3,60,4,0,0,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),6
+2247,40,3,0,0,0,0,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),7
+13917,70,3,0,9,50,2,0,Operating Azure Stack Hub(PLuralSight),5
+21293,0,8,70,5,0,0,0,Operating Systems from scratch - Part 1(Udemy),6
+12739,0,0,40,9,0,5,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),5
+1661,0,0,0,0,40,3,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),6
+5733,70,8,0,8,50,4,0,Hello (Real) World with ROS – Robot Operating System(EDX),7
+12944,70,3,0,0,30,9,1,Operating Systems from scratch - Part 2(Udemy),7
+9414,40,8,0,0,0,8,1,Using Python to Interact with the Operating System(Coursera),7
+14910,0,0,0,2,0,0,1,Advanced Operating Systems(Udacity),8
+12404,60,8,0,7,50,9,1,Linux Operating System Fundamentals(Udemy),7
+18067,0,5,0,0,0,7,0,Operating Systems and You: Becoming a Power User(Coursera),7
+6207,0,0,60,4,20,8,0,Introduction to Operating Systems(Udacity),5
+13797,0,0,0,0,40,8,0,Cybersecurity Roles and Operating System Security(EDX),6
+12780,0,0,80,5,0,5,1,Hello (Real) World with ROS – Robot Operating System(EDX),6
+5052,0,8,80,5,60,5,1,Embedded and Real Time Operating Systems(Youtube),8
+18156,0,0,0,2,80,1,1,Introduction to Operating Systems(Swayam),4
+12367,0,3,0,0,80,2,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),3
+14316,0,8,0,0,60,1,1,Operating System(Youtube -GateSmasher),7
+13178,0,0,0,0,40,9,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+4003,0,0,0,3,0,0,0,Introduction to Operating Systems(Udacity),6
+2498,40,5,0,0,0,0,1,Advanced Operating Systems(Udacity),7
+8796,90,3,0,9,70,5,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),8
+15404,40,3,0,0,40,1,1,Computer Hardware and Operating Systems(EDX),5
+20613,40,5,0,0,40,9,0,Understanding Computer Systems(FutureLearn),5
+19353,0,0,30,4,0,0,0,Operating Systems from scratch - Part 2(Udemy),6
+15383,0,0,20,4,60,1,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),7
+7065,0,0,0,8,70,1,0,Using Python to Interact with the Operating System(Coursera),7
+7970,0,0,0,0,20,7,1,Getting Started with Junos Operating System(Coursera),8
+3964,80,8,0,9,40,6,1,Hello (Real) World with ROS – Robot Operating System(EDX),6
+11830,80,3,60,7,0,7,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),4
+8690,0,0,0,2,50,2,1,Operating System(Youtube -GateSmasher),7
+9070,0,0,80,1,30,4,1,Cybersecurity Roles and Operating System Security(EDX),5
+9602,0,3,70,1,50,8,1,Embedded Hardware and Operating Systems(Coursera),5
+6835,40,5,0,0,40,9,0,Hello (Real) World with ROS – Robot Operating System(EDX),6
+18989,0,0,0,8,50,2,0,Understanding Computer Systems(FutureLearn),5
+14297,0,0,0,0,40,3,0,Operating Systems and You: Becoming a Power User(Coursera),7
+16876,0,0,70,7,0,7,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),8
+2889,0,0,80,3,0,7,0,Using Python to Interact with the Operating System(Coursera),7
+3165,0,8,60,3,40,7,0,Advanced Operating Systems(Udacity),6
+12457,0,8,40,9,40,5,0,Real Time Operating System(SWAYAM),7
+17102,70,3,0,0,30,8,1,Linux Operating System Fundamentals(Udemy),5
+1787,80,3,0,7,50,7,0,Using Python to Interact with the Operating System(Coursera),7
+17398,0,0,0,0,40,5,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),7
+5785,0,0,90,6,0,8,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),7
+79,0,0,0,0,40,4,0,Linux Operating System Fundamentals(Udemy),8
+12853,0,3,0,0,50,2,0,Embedded and Real Time Operating Systems(Youtube),6
+6492,0,0,60,2,0,1,1,Operating System(Udemy),7
+2713,40,8,0,6,0,0,0,Real Time Operating System(SWAYAM),8
+13448,30,8,10,5,80,1,1,Linux Operating System Fundamentals(Udemy),7
+19149,0,8,70,5,60,3,0,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),7
+9993,30,5,0,0,60,1,0,Operating Systems(SWAYAM),7
+15145,0,0,0,0,40,4,0,Operating Systems from scratch - Part 1(Udemy),7
+9783,0,0,80,2,0,9,0,Operating Systems from scratch - Part 2(Udemy),7
+6599,50,8,0,7,70,7,0,Real Time Operating System(SWAYAM),7
+20470,80,3,0,0,0,7,1,Operating System(Udemy),8
+8037,0,0,0,8,60,1,0,Advanced Operating Systems(Udacity),7
+891,0,0,0,0,40,3,0,Linux Operating System Fundamentals(Udemy),6
+11964,0,8,50,2,40,5,1,Real Time Operating System(SWAYAM),7
+6218,90,3,0,7,70,4,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+8763,0,0,80,2,30,9,0,Computer Hardware and Operating Systems(EDX),7
+20858,50,5,30,7,30,1,1,Operating Systems from scratch - Part 1(Udemy),6
+8248,0,0,0,0,40,6,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+5537,10,8,90,2,0,1,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),7
+13390,70,5,0,6,50,9,1,Linux Operating System Fundamentals(Udemy),6
+298,0,0,0,0,40,1,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),5
+15454,0,0,0,0,40,5,1,Operating Azure Stack Hub(PLuralSight),7
+1102,0,0,0,0,0,1,1,Operating Systems and You: Becoming a Power User(Coursera),6
+5161,60,5,0,4,50,6,0,Operating Running Systems(PluraSight),7
+5588,0,0,0,0,30,7,1,Hello (Real) World with ROS – Robot Operating System(EDX),6
+5440,40,8,0,0,40,9,1,Operating Systems(SWAYAM),7
+2318,0,8,80,5,0,0,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+15009,10,8,60,2,60,5,0,Real Time Operating System(SWAYAM),7
+13418,60,3,30,9,50,3,1,Hello (Real) World with ROS – Robot Operating System(EDX),7
+9512,0,8,20,7,80,1,1,Operating Systems and You: Becoming a Power User(Coursera),7
+14376,80,3,70,6,0,8,1,Linux Operating System Fundamentals(Udemy),7
+9831,0,0,80,1,30,4,0,Operating Systems and You: Becoming a Power User(Coursera),7
+19643,0,0,0,0,40,3,0,Operating Systems from scratch - Part 2(Udemy),7
+15049,30,3,0,0,50,2,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+18506,0,8,70,3,0,0,1,Advanced Operating Systems(Udacity),7
+3999,0,0,80,1,30,4,0,Operating Azure Stack Hub(PLuralSight),6
+3556,0,3,0,0,0,0,1,Using Python to Interact with the Operating System(Coursera),6
+9710,50,3,0,6,40,6,1,Getting Started with Junos Operating System(Coursera),5
+19342,0,0,0,0,40,5,1,Operating Running Systems(PluraSight),6
+14977,0,8,0,0,60,6,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),8
+18108,70,3,0,5,50,1,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+13897,0,8,80,7,50,4,0,Embedded and Real Time Operating Systems(Youtube),7
+9754,0,0,40,5,20,8,1,Operating Systems from scratch - Part 2(Udemy),8
+9224,70,3,0,6,60,6,1,Introduction to Operating Systems(Swayam),6
+9105,0,0,70,1,0,1,0,Operating Running Systems(PluraSight),6
+16772,70,3,20,9,60,3,1,Operating Systems from scratch - Part 2(Udemy),7
+18284,0,8,70,1,60,6,1,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),6
+1746,0,8,80,6,50,2,1,Embedded and Real Time Operating Systems(Youtube),7
+8164,0,0,0,0,40,5,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),6
+7412,0,0,0,5,50,3,1,Operating Systems(SWAYAM),8
+8156,0,3,0,0,80,2,1,Operating Systems from scratch - Part 1(Udemy),7
+398,80,5,0,0,0,9,1,Linux Operating System Fundamentals(Udemy),4
+18646,60,3,90,1,0,5,1,Operating Running Systems(PluraSight),7
+19512,50,3,10,6,50,7,1,Getting Started with Junos Operating System(Coursera),7
+7248,40,5,0,0,40,7,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),5
+10108,0,0,0,0,40,5,1,Real Time Operating System(SWAYAM),6
+13422,0,8,80,2,50,5,1,Getting Started with Junos Operating System(Coursera),7
+3635,90,5,0,9,40,9,0,Operating Systems from scratch - Part 2(Udemy),7
+17201,10,8,90,2,60,1,0,Advanced Operating Systems(Udacity),7
+2867,30,8,70,1,0,0,0,Operating System(Udemy),6
+1780,0,0,80,1,0,4,1,Operating Systems Concept and Design Principles for Beginner(Udemy),5
+11162,50,8,0,0,0,5,1,Operating Azure Stack Hub(PLuralSight),4
+5648,0,8,90,1,70,6,1,Cybersecurity Roles and Operating System Security(EDX),6
+1264,40,3,50,5,30,9,1,Operating Systems(SWAYAM),6
+4589,0,8,70,2,70,3,0,Operating Systems from scratch - Part 1(Udemy),7
+9624,70,8,80,3,0,9,1,Operating System(Udemy),7
+11388,10,8,80,1,50,5,1,Hello (Real) World with ROS – Robot Operating System(EDX),8
+15588,0,3,70,2,0,0,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),7
+14856,0,3,70,2,0,3,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),7
+8737,0,8,70,3,40,2,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),6
+7103,0,0,0,4,60,6,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),7
+4990,0,0,0,0,40,1,1,Introduction to Operating Systems(Swayam),5
+8658,60,3,0,6,50,9,1,Real Time Operating System(SWAYAM),7
+20751,0,0,70,2,30,7,0,Real Time Operating System(SWAYAM),6
+12683,0,8,60,4,60,1,0,Operating Systems from scratch - Part 2(Udemy),6
+18720,0,8,80,4,80,2,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),6
+19913,0,5,80,2,60,6,0,Operating System(Youtube -GateSmasher),7
+11775,0,0,80,1,0,4,0,Introduction to Operating Systems(Udacity),6
+6444,70,3,0,5,70,1,1,Embedded and Real Time Operating Systems(Youtube),5
+17700,0,0,0,0,40,9,1,Operating Systems from scratch - Part 2(Udemy),6
+18856,0,0,0,0,40,5,1,Embedded and Real Time Operating Systems(Youtube),8
+12138,70,3,0,8,0,0,1,Real Time Operating System(SWAYAM),7
+4340,80,3,0,3,40,3,1,Operating System(Youtube -GateSmasher),7
+21211,60,3,10,6,40,6,0,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+18671,0,0,0,0,40,3,0,Getting Started with Junos Operating System(Coursera),6
+10932,70,5,60,1,20,9,1,Operating Running Systems(PluraSight),4
+5425,0,0,0,0,40,4,0,Introduction to Operating Systems(Swayam),7
+15019,0,0,20,6,30,8,0,Operating Azure Stack Hub(PLuralSight),7
+15980,0,0,50,2,0,2,1,Introduction to Operating Systems(Udacity),7
+2495,0,0,10,9,70,2,0,Introduction to Operating Systems(Udacity),7
+1722,80,3,80,2,0,7,1,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+14883,30,3,0,0,0,0,0,Embedded and Real Time Operating Systems(Youtube),5
+11103,90,3,0,5,30,5,0,Operating System(Udemy),6
+17088,70,5,0,0,0,6,1,Operating Systems from scratch - Part 1(Udemy),6
+10392,90,5,0,6,40,6,1,Operating Systems from scratch - Part 2(Udemy),7
+5209,0,0,20,6,50,8,0,Using Python to Interact with the Operating System(Coursera),6
+12354,0,0,0,0,40,9,1,Operating Systems and You: Becoming a Power User(Coursera),7
+2358,60,3,70,1,30,9,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),6
+1019,0,8,60,4,50,1,0,Advanced Operating Systems(Udacity),5
+13099,0,0,90,4,0,7,0,Hello (Real) World with ROS – Robot Operating System(EDX),6
+17270,0,5,70,5,50,2,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),7
+15954,0,8,80,6,50,8,1,Advanced Operating Systems(Udacity),6
+10439,80,5,0,9,40,9,0,Operating Running Systems(PluraSight),6
+6743,0,0,30,4,40,2,0,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),6
+5083,0,3,0,0,50,3,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),7
+13188,0,3,60,2,80,1,1,Cybersecurity Roles and Operating System Security(EDX),4
+3790,0,0,0,0,40,5,1,Hello (Real) World with ROS – Robot Operating System(EDX),8
+17186,30,5,20,9,40,9,1,Using Python to Interact with the Operating System(Coursera),5
+19210,0,0,0,0,30,1,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+6117,40,8,10,8,80,2,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+13153,90,5,0,0,0,9,0,Real Time Operating System(SWAYAM),6
+5010,10,8,0,0,60,8,1,Cybersecurity Roles and Operating System Security(EDX),6
+18955,60,5,90,3,0,6,0,Using Python to Interact with the Operating System(Coursera),7
+2350,0,5,0,0,50,3,1,Introduction to Operating Systems(Udacity),6
+13367,90,3,70,2,0,7,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),7
+12486,0,5,0,0,80,3,1,Real Time Operating System(SWAYAM),6
+6175,0,0,80,2,30,8,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),7
+7992,0,8,0,0,60,7,1,Operating Systems(SWAYAM),6
+1701,40,5,0,0,40,2,0,Operating System(Youtube -GateSmasher),6
+3619,0,3,0,0,50,2,0,Understanding Computer Systems(FutureLearn),8
+14783,0,0,0,0,30,3,0,Cybersecurity Roles and Operating System Security(EDX),7
+4236,0,5,0,8,60,7,1,Introduction to Operating Systems(Swayam),8
+19607,0,3,80,2,60,2,0,Embedded Hardware and Operating Systems(Coursera),3
+13850,0,0,0,0,40,7,1,Operating Systems(SWAYAM),5
+6466,0,8,50,8,60,8,1,Operating Running Systems(PluraSight),6
+9420,60,5,0,6,50,6,1,Getting Started with Junos Operating System(Coursera),8
+3139,70,3,0,0,0,3,0,Operating Systems from scratch - Part 1(Udemy),8
+15751,0,8,60,4,50,3,0,Advanced Operating Systems(Udacity),5
+10133,0,0,0,7,50,8,0,Become a Master of Operating Systems at comfort of your Home (Udemy),5
+9909,0,0,0,0,40,8,0,Hello (Real) World with ROS – Robot Operating System(EDX),7
+9282,80,3,0,9,40,5,1,Introduction to Operating Systems(Swayam),6
+18252,0,5,90,3,50,3,1,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+12393,10,5,0,0,80,2,0,Operating Systems from scratch - Part 2(Udemy),7
+20872,10,5,40,3,0,0,1,Linux Operating System Fundamentals(Udemy),7
+5970,0,8,90,3,50,8,1,Operating System(Udemy),6
+6610,80,3,0,5,50,9,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),5
+20856,10,5,0,0,60,7,1,Computer Hardware and Operating Systems(EDX),6
+19062,0,0,60,2,30,4,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),8
+8891,0,0,30,3,40,1,0,Operating Systems(SWAYAM),6
+16568,0,8,70,3,0,0,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),5
+2022,0,5,0,0,60,6,1,Linux Operating System Fundamentals(Udemy),7
+14943,0,0,0,5,60,1,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),5
+1358,60,3,0,7,80,4,1,Getting Started with Junos Operating System(Coursera),7
+4877,0,8,0,0,60,2,0,Computer Hardware and Operating Systems(EDX),7
+21110,0,5,0,0,50,8,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),7
+12916,0,5,80,2,80,3,1,Operating Systems Concept and Design Principles for Beginner(Udemy),7
+14970,10,8,70,3,40,9,1,Embedded and Real Time Operating Systems(Youtube),6
+8784,0,3,80,2,0,0,1,Operating Azure Stack Hub(PLuralSight),5
+18038,0,0,0,0,40,9,1,Operating Systems and You: Becoming a Power User(Coursera),5
+5071,0,0,20,6,0,0,0,Operating System(Udemy),6
+16661,0,0,0,0,30,3,0,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),8
+16735,0,0,0,6,0,0,0,Introduction to Operating Systems(Swayam),7
+14078,10,8,0,0,60,5,1,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+2859,0,8,90,2,70,5,0,Operating Systems(SWAYAM),7
+4796,70,3,0,5,30,2,1,Operating Systems Concept and Design Principles for Beginner(Udemy),5
+9304,0,8,0,0,70,6,1,Getting Started with Junos Operating System(Coursera),7
+20896,0,0,0,8,70,8,1,Real Time Operating System(SWAYAM),6
+15698,0,0,0,2,60,3,1,Configuration Manager: Maintain Inventory and Operating Systems(Linkedln Learning),5
+1947,0,0,20,9,0,0,0,Advanced Operating Systems(Udacity),7
+15644,80,3,0,0,0,8,1,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),7
+9190,0,0,0,8,80,3,1,Operating Azure Stack Hub(PLuralSight),6
+931,0,0,0,5,60,6,0,Embedded Hardware and Operating Systems(Coursera),5
+13562,90,3,0,3,0,8,1,Operating System(Youtube -GateSmasher),6
+16002,0,8,80,3,60,1,1,Understanding Computer Systems(FutureLearn),7
+7025,0,8,60,6,60,6,0,Operating Systems from scratch - Part 1(Udemy),6
+13928,0,5,70,3,40,5,1,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),6
+7050,0,0,60,7,0,8,1,Embedded Hardware and Operating Systems(Coursera),6
+16519,0,3,80,1,80,2,0,Using Python to Interact with the Operating System(Coursera),7
+15768,10,8,0,0,60,7,1,Linux Operating System Fundamentals(Udemy),5
+3666,60,3,90,2,0,7,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+4524,40,8,0,0,40,8,1,Operating Systems and You: Becoming a Power User(Coursera),7
+8960,10,5,0,0,60,8,1,Operating Running Systems(PluraSight),7
+1405,50,5,0,2,0,0,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+2665,0,0,80,2,0,2,0,Operating Azure Stack Hub(PLuralSight),7
+8670,0,0,0,6,70,3,1,Operating Running Systems(PluraSight),8
+6775,0,3,70,3,60,1,0,Using Python to Interact with the Operating System(Coursera),7
+8866,80,8,0,9,40,3,1,Linux Operating System Fundamentals(Udemy),9
+19169,50,8,0,2,40,3,0,Operating Systems and You: Becoming a Power User(Coursera),6
+2515,0,5,0,0,30,7,0,Linux Operating System Fundamentals(Udemy),4
+17666,60,3,70,1,30,9,1,Computer Hardware and Operating Systems(EDX),6
+16780,0,0,0,0,40,1,1,Using Python to Interact with the Operating System(Coursera),6
+16268,0,5,70,2,70,2,1,Operating Running Systems(PluraSight),6
+10248,0,8,60,2,40,3,1,Operating Systems Concept and Design Principles for Beginner(Udemy),8
+1846,0,0,0,0,40,5,1,Operating System(Youtube -GateSmasher),8
+5177,0,0,0,4,50,1,0,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),7
+4261,0,0,70,3,0,3,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+16788,0,3,80,2,40,7,1,Operating Azure Stack Hub(PLuralSight),7
+20125,0,8,80,4,80,3,0,Operating Running Systems(PluraSight),6
+853,30,5,0,3,0,0,0,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+1649,30,8,70,2,70,1,0,Operating System(Udemy),6
+1650,0,8,80,5,60,5,1,Operating Azure Stack Hub(PLuralSight),6
+4957,70,3,60,1,0,5,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),5
+20063,0,0,0,0,40,3,0,Getting Started with Junos Operating System(Coursera),7
+17837,0,0,80,6,0,6,0,Introduction to Operating Systems(Swayam),5
+11952,0,8,90,6,50,2,1,Advanced Operating Systems(Udacity),7
+4370,70,3,0,3,0,0,1,Hello (Real) World with ROS – Robot Operating System(EDX),7
+3820,50,8,70,8,0,9,1,Linux Operating System Fundamentals(Udemy),6
+2826,70,3,30,6,30,9,1,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),5
+10822,0,0,0,0,40,1,1,Computer Hardware and Operating Systems(EDX),6
+19346,80,5,0,7,50,6,1,Embedded Hardware and Operating Systems(Coursera),6
+13265,0,0,30,3,60,1,0,Become a Master of Operating Systems at comfort of your Home (Udemy),5
+658,60,8,70,3,0,7,1,Hello (Real) World with ROS – Robot Operating System(EDX),5
+4928,0,5,0,0,0,0,1,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+4634,80,5,0,5,40,2,1,Understanding Computer Systems(FutureLearn),8
+18663,0,8,80,5,60,3,0,Real Time Operating System(SWAYAM),7
+2112,0,0,0,8,50,4,1,Getting Started with Junos Operating System(Coursera),6
+2229,0,8,60,8,60,2,0,Operating System(Udemy),8
+9164,70,3,0,0,30,9,1,Operating Systems and You: Becoming a Power User(Coursera),7
+7894,0,8,0,9,60,3,1,Embedded and Real Time Operating Systems(Youtube),3
+1386,70,3,80,1,0,9,1,Understanding Computer Systems(FutureLearn),6
+21159,0,0,0,8,40,1,0,Using Python to Interact with the Operating System(Coursera),6
+15389,60,5,70,1,20,6,0,Operating System(Youtube -GateSmasher),6
+9208,0,5,60,3,0,0,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),7
+5158,0,0,0,0,40,1,1,Operating System(Udemy),7
+17447,0,8,0,1,0,0,0,Using Python to Interact with the Operating System(Coursera),6
+19485,0,0,30,4,70,1,0,Operating Azure Stack Hub(PLuralSight),6
+1603,0,0,0,7,70,2,0,CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems (Linkedln Learning),7
+20411,0,8,70,6,50,8,0,Getting Started with Junos Operating System(Coursera),7
+16390,0,0,80,7,0,7,1,Computer Hardware and Operating Systems(EDX),7
+10857,80,3,70,3,0,7,0,Operating Systems Concept and Design Principles for Beginner(Udemy),2
+10273,60,5,20,6,40,6,0,Operating Systems from scratch - Part 1(Udemy),7
+5739,40,8,40,8,30,9,0,Operating Azure Stack Hub(PLuralSight),6
+18746,0,8,70,7,70,1,1,Become a Master of Operating Systems at comfort of your Home (Udemy),7
+16565,40,8,0,0,40,7,0,Embedded and Real Time Operating Systems(Youtube),7
+7160,80,3,20,3,30,7,1,Operating Azure Stack Hub(PLuralSight),5
+1984,10,5,70,2,70,2,1,Become a Master of Operating Systems at comfort of your Home (Udemy),6
+13682,0,8,0,0,60,6,1,Understanding Computer Systems(FutureLearn),7
+9525,70,5,0,7,60,4,0,Windows Operating Systems for CompTIA A+ (220-902)(Pluralsight),6
+17533,0,5,80,1,50,4,0,Operating Systems(SWAYAM),7
+121,0,0,80,1,30,6,0,Computer Hardware and Operating Systems(EDX),7
+19280,0,8,80,5,80,1,1,Getting Started with Junos Operating System(Coursera),4
+13432,70,3,0,9,0,0,1,Computer Hardware and Operating Systems(EDX),8
+8276,0,0,20,1,50,2,1,Operating Systems Concept and Design Principles for Beginner(Udemy),6
+21191,0,8,80,6,50,7,0,Linux Operating System Fundamentals(Udemy),7
+20044,0,8,50,9,50,3,1,Computer Hardware and Operating Systems(EDX),7
+17385,0,0,60,4,30,8,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),7
+16997,10,5,60,2,50,6,0,Embedded Hardware and Operating Systems(Coursera),7
+13771,0,8,70,3,40,3,0,Operating System(Udemy),5
+542,0,0,0,0,40,9,1,Hello (Real) World with ROS – Robot Operating System(EDX),7
+14568,0,3,50,8,0,0,1,Operating Systems from scratch - Part 2(Udemy),6
+20129,0,0,0,0,40,3,0,Embedded Hardware and Operating Systems(Coursera),7
+861,0,0,60,4,30,8,0,Hello (Real) World with ROS – Robot Operating System(EDX),6
+12398,80,3,0,9,50,3,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),6
+3900,70,3,80,5,0,8,1,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),6
+18850,50,5,80,3,0,8,1,Operating Systems and You: Becoming a Power User(Coursera),9
+18635,0,3,80,2,60,2,0,Operating Systems(SWAYAM),6
+8064,50,8,0,6,0,2,1,Introduction to Operating Systems(Swayam),7
+18120,0,8,60,3,70,8,1,Getting Started with Junos Operating System(Coursera),5
+7545,0,0,60,2,0,2,0,Computer Hardware and Operating Systems(EDX),7
+2920,0,8,80,4,60,5,1,Hello (Real) World with ROS – Robot Operating System(EDX),6
+11973,70,3,0,9,40,2,0,Operating System(Udemy),8
+1070,0,0,20,9,70,6,1,Operating Azure Stack Hub(PLuralSight),6
+9776,0,0,0,0,30,9,1,Embedded Hardware and Operating Systems(Coursera),6
+7418,0,5,80,3,0,0,1,Understanding Computer Systems(FutureLearn),7
+1377,0,0,0,0,40,3,0,Other Operating Systems & Technologies for CompTIA A+ (220-902)(Pluralsight),6
+13060,40,3,0,0,40,4,1,Operating Systems from scratch - Part 2(Udemy),7
+6813,70,5,70,2,0,6,0,Juniper Networks JNCIA-Junos: Junos Operating System Fundamentals(PluralaSight),6
+17908,0,0,0,1,30,7,1,SCCM Current Branch: Deploy and Maintain Operating Systems(Pluralsight),8
+12227,0,8,0,0,70,3,0,Using Python to Interact with the Operating System(Coursera),7
